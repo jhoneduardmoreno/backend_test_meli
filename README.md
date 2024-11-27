@@ -14,7 +14,7 @@ This project is the backend implementation for Mercado Libre's technical challen
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/jhoneduardmoreno/backend_meli.git
+   git clone https://github.com/jhoneduardmoreno/backend_test_meli.git
    ```
 
 2. Install dependencies
